@@ -1,0 +1,38 @@
+partial alphanumeric_keys
+xkb_symbols "grawerty" {
+
+    include "us(basic)"
+    name[Group1]= "English (Grawerty)";
+
+    key <AD01> {  [   b,  B   ] };
+    key <AD02> {  [   l,  L   ] };
+    key <AD03> {  [   r,  R   ] };
+    key <AD04> {  [   d,  D   ] };
+    key <AD05> {  [   m,  M   ] };
+    key <AD06> {  [   k,  K   ] };
+    key <AD07> {  [   u,  U   ] };
+    key <AD08> {  [   i,  I   ] };
+    key <AD09> {  [   o,  O   ] };
+    key <AD10> {  [   j,  J   ] };
+
+    key <AC01> {  [   w,  W   ] };
+    key <AC02> {  [   n,  N   ] };
+    key <AC03> {  [   s,  S   ] };
+    key <AC04> {  [   t,  T   ] };
+    key <AC05> {  [   g,  G   ] };
+    key <AC06> {  [   y,  Y, Left   ] };
+    key <AC07> {  [   h,  H, Down   ] };
+    key <AC08> {  [   e,  E, Up   ] };
+    key <AC09> {  [   a,  A, Right   ] };
+    key <AC10> {  [   semicolon,  colon   ] };
+
+    key <AB01> {  [   z,  Z   ] };
+    key <AB02> {  [   x,  X   ] };
+    key <AB03> {  [   c,  C   ] };
+    key <AB04> {  [   v,  V   ] };
+    key <AB05> {  [   q,  Q   ] };
+    key <AB06> {  [   p,  P   ] };
+    key <AB07> {  [   f,  F   ] };
+    
+    include "level3(rwin_switch)"
+};
