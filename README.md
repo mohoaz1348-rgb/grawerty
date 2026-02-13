@@ -1,6 +1,6 @@
 # Grawerty
 
-Grawerty is a layout for comfortable typing in English. It was originally designed for a standard keyboard, but can be adapted for other keyboard types. It uses Angle Mod: `c` is the index finger, `x` is the middle finger, and `z` is the ring finger.
+Grawerty is a layout for comfortable typing in English. It was originally designed for a standard keyboard, but can be adapted for other keyboard types. It uses Angle Mod: `c` - index finger, `x` - middle finger, and `z` - the ring finger.
 
 ![grawerty](./img/grawerty.png)
 
@@ -20,13 +20,13 @@ The first alternative layout I switched to was Graphite, and it truly was much n
 - After Qwerty, placing the `t` on a finger other than the index finger was very unusual, but even without reference to Qwerty, I personally find placing the `t` on the index finger very comfortable and natural. Incidentally, the creator of Graphite places the `t` on the index finger in his subsequent layouts.
 - I don't like the placement of the `m` in Graphite because Typing `rm`, `rms`, `mb`, `lm` becomes awkward for me.
 - `br`, `ui` are uncomfortable, so when creating the layout, I paid close attention to the half-scissors, especially on the pinky and ring fingers.
-- I don't like weak redirections and try to avoid them. There are significantly fewer of them in Graphite than in the standard layout, but they can be reduced even more.
+- I don't like weak redirects and try to avoid them. There are significantly fewer of them in Graphite than in the standard layout, but they can be reduced even more.
 
 ## Layout requirements
 
 - eliminate the shortcomings of Graphite without introducing new shortcomings
-- the number of redirections should not increase significantly compared to Graphite
-- significantly reduce the number of weak redirections
+- the number of redirects should not increase significantly compared to Graphite
+- significantly reduce the number of weak redirects
 - I like that only 6 letters changed hands in Graphite, so leave them that way – no changes
 - SFB should not exceed the SFB of the Dvorak layout
 - SFB should be comfortable to type; SFBs on the pinky are unacceptable, including SFB(0u) (repeating a single letter)
@@ -47,8 +47,8 @@ The arrangement of the letters `u`, `i`, and `o` was the same as in the standard
 
 ### Trigrams
 
-1. The overall number of redirections increased by only 0.8% compared to Graphite – that's fine with me.
-2. The number of weak redirections decreased by 0.3% and became very insignificant – 0.1%.
+1. The overall number of redirects increased by only 0.8% compared to Graphite – that's fine for me.
+2. The number of weak redirects decreased by 0.3% and became very insignificant – 0.1%.
 3. The number of rolls decreased slightly, but I don't really pay attention to their number, as these rolls tend to include scissors and other awkward combinations. I just make sure there aren't many more outward rolls than inward ones.
 
 ### Bigrams
@@ -57,7 +57,7 @@ SFB – in my opinion, this parameter is overly demonized and optimized at all c
 
 So, the SFB is 2.55%. Two and a half times higher than Graphite's SFB! Everyone turns around and goes about their business, immediately assuming this is a bad layout. But in reality, the SFB is even higher, because the analyzer didn't account for repeats of one letter, which account for 2.3%.
 
-Now, Grawerty has 4.85%, while Graphite has 3.3%. Not that big of a difference, right? 50% more than Graphite. This extra percentage is quite comfortable to type, as it's concentrated in just a few bigrams on the index and middle fingers. `rs`, `ie` are comfortable, `ct` is less comfortable, `e` is awkward, `up`, `pu`, `fu`, `dg`, `dv` are easy to type using the index and middle fingers - this is quite familiar to Qwerty users.
+Now, Grawerty has 4.85%, while Graphite has 3.3%. Not that big of a difference, right? 50% more than Graphite. This extra percentage is quite comfortable to type, as it's concentrated in just a few bigrams on the index and middle fingers. `rs`, `ie` are comfortable, `ct` is less comfortable, `e,` is awkward, `up`, `pu`, `fu`, `dg`, `dv` are easy to type using the index and middle fingers - this is quite familiar to Qwerty users.
 
 Scissors are almost the same as in Graphite.
 
@@ -105,11 +105,12 @@ My progress on Grawerty was even faster than on Graphite. My speed increase comp
 - My left index finger moves quite rapidly and jumps back and forth. This doesn't significantly affect comfort, but it can affect high typing speeds. Although this is still much better than Qwerty. The skipgram `c_m` is inconvenient.
 - `e,` is not a very convenient sfb for me. You can swap `,` and `;` if you like.
 - `phy` is more comfortable than in Graphite, but still requires effort.
-- `k` is not the most optimal placement, as it forms many combinations with vowels and, while not inconvenient, does cause excessive index finger travel. However, I don't recommend swapping `k` and `;`, as this will significantly increase weak redirections.
+- `k` is not the most optimal placement, as it forms many combinations with vowels and, while not inconvenient, does cause excessive index finger travel. However, I don't recommend swapping `k` and `;`, as this will significantly increase weak redirections. By the way, I set my last record on a text in which "k" appears more often than usual (2% vs 0.8%), but that didn't stop me. Text:  
+"He needed some clues as to what it was he had just experienced, and a thought flicked momentarily at the back of his mind as to where he might find them. He let go of the thought in anger, but it flicked at him again, and kept on flicking at him until at last he acted upon it."
 
 ### Some comments
 
-- `m` - This fairly common letter may seem difficult to access. The location is certainly not ideal, but it's far more important that the letter doesn't create awkward combinations. Combinations like `rm`, `mb`, `lm`, and `ms` are either convenient or neutral. They're still more convenient than in graphite, at least for me. If the letter `m` is used in bigrams typed with different hands, its placement generally doesn't cause problems. In practice, I have no difficulty with this letter.
+- `m` - This fairly common letter may seem difficult to access. The location is certainly not ideal, but it's far more important that the letter doesn't create awkward combinations. Combinations like `rm`, `mb`, `lm`, and `ms` are either convenient or neutral. They're still more convenient than in Graphite, at least for me. If the letter `m` is used in bigrams typed with different hands, its placement generally doesn't cause problems. In practice, I have no difficulty with this letter.
 
 ## Installation
 
