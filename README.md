@@ -41,7 +41,7 @@ I managed to meet all the requirements, but I couldn't create a layout that woul
 
 The arrangement of the letters `u`, `i`, and `o` was the same as in the standard layout not to maintain similarity, but because this arrangement best meets the requirements of the new layout. Surprise. The same applies to the letter `c` – it retained its position, in part because moving it to other fingers, while reducing sfb, also increases other inconvenient combinations – weak redirects, half-scissors, and pinky/middle finger rolls (which I don't like).
 
-## Сравнение с графитом и другими раскладками
+## Comparison with Graphite and other layouts
 
 ![Grawerty](./img/grawerty_oxey.png)
 
@@ -82,58 +82,59 @@ Among layouts with a large number of redirects, Workman wins, with a few inconve
 
 It is also clear that Angle Mod provides an advantage over the standard mode for Qwerty, Colemak, and Workman.
 
-## Мой опыт использования английских раскладок
+## My experience using English keyboard layouts
 
-Год назад я решил освоить слепой метод печати для Qwerty. Три недели занимался на тренажере, затем пришел на [клавогонки](https://klavogonki.ru/) и начал тут набирать скорость. С результатами можно ознакомиться [здесь](https://klavogonki.ru/u/#/808252/stats/voc-5539/?fromDate=2025-02-26&toDate=2026-01-22&grouping=day&indicator=speed).
+A year ago, I decided to master touch typing for Qwerty. I spent three weeks on a trainer, then came to the [klavogonki](https://klavogonki.ru/) website and started picking up speed. You can see my results [here](https://klavogonki.ru/u/#/808252/stats/voc-5539/?fromDate=2025-02-26&toDate=2026-01-22&grouping=day&indicator=speed).
 
-За два месяца и три недели я достиг максимальной скорости 287 знаков в минуту и она отказывалась дальше расти. При печати довольно быстро наступало утомление - особенно на левой руке (сейчас я понимаю, что так происходило из-за большого количества перенаправлений, особенно слабых). Тренироваться было не в кайф. Начал присматриваться к альтернативным английским раскладкам - остановился на графите и начал его тренировать.
+Within two months and three weeks of starting my training, I reached a maximum speed of 57 wpm, and it refused to improve any further. Typing quickly became tiring, especially on my left hand (I now understand that this was due to the large number of redirections, especially weak ones). Practicing wasn't fun. I started looking at alternative English keyboard layouts, settled on Graphite, and began practicing with it.
 
-За месяц на графите я достиг максимума 250 символов и скорость не переставая росла. Со статистикой можно ознакомиться [здесь](https://klavogonki.ru/u/#/817942/stats/voc-5539/?fromDate=2025-05-04&toDate=2026-01-22&grouping=day&indicator=speed). Графит это только начало графика, остальное Grawerty.
+In a month on graphite, I reached the maximum of 50 wpm, and my speed kept growing. You can find the statistics [here](https://klavogonki.ru/u/#/817942/stats/voc-5539/?fromDate=2025-05-04&toDate=2026-01-22&grouping=day&indicator=speed). Graphite is just the beginning of the graph; the rest is Grawerty.
 
 Т.е. на графите прогресс был заметно быстрее и печатать гораздо приятнее было. Но для меня графит не совсем подходил. Поэтому, после того как я допилил и окончательно протестировал русскую раскладку [Статикa](https://github.com/mohoaz1348-rgb/statica), я приступил к созданию английском раскладки. Т.к. я уже понимал что мне нужно от раскладки, то сделал её довольно быстро и за два месяца достиг 350 символов в минуту. За это время изменили своё пложение буквы `r`, `l`, `f`, `y`, `k` и раскладка обрела окончательный вид.
+So, on Graphite, progress was noticeably faster and typing was much more pleasant. But Graphite wasn't quite right for me. So, after I finished polishing and finally tested the Russian layout [Statica](https://github.com/mohoaz1348-rgb/statica), I started creating the English layout. Since I already knew what I needed from the layout, I completed it fairly quickly and reached 70 wpm in two months. During this time, the letters `r`, `l`, `f`, `y`, and `k` changed their positions, and the layout took its final form.
 
-Прогресс на Grawerty шел ещё быстрее, чем на графите. Прирост скорости по сравнению с Qwerty уже составил 22%, хотя тренировался меньше на две недели и в процессе этих тренировок раскладка менялась. Так что могу с уверенностью сказать, что альтернативные раскладки, особенно хорошие, дают существенный прирост как в скорости, так и в комфорте набора.
+My progress on Grawerty was even faster than on Graphite. My speed increase compared to Qwerty was already 22%, even though I trained for two weeks less and the layout changed during that time. So I can confidently say that alternative layouts, especially good ones, provide a significant boost in both speed and typing comfort.
 
-### Что мне особенно нравится в раскладе
+### What I especially like about the layout
 
-- блок wnst/blrd. В этом блоке сконцентрированы самые частые согласные, которые легко доступны и образуют много удобных и мало неудобных сочетаний друг с другом
-- блок hea;/uioj. Нравится по той же причине, что и левый блок, но уже меньше, т.к `j` немного портит статистику, неудобными сочетаниями с некоторыми гласными буквами
-- незначительное использование мизинцев всё-таки добавляет комфорта, хотя я и не стремился специально снизить на них нагрузку
-- большое сходство со стандартной раскладкой при использовании наиболее частых шорткатов
-- пунктуация совпадает с Qwerty (с графитом я тоже использовал стандартную пунктуацию)
+- `wnst/blrd` block. This block concentrates the most common consonants, which are easily accessible and form many convenient and little awkward combinations with each other.
+- `hea;/uioj` block. I like it for the same reason as the left block, but less so, as the `j` slightly skews the statistics and makes for awkward combinations with some vowels.
+- A slight use of the pinky fingers still adds to the comfort, although I didn't specifically try to reduce the load on them.
+- I like the great similarity to the standard layout when using the most common shortcuts.
+- Punctuation matches Qwerty (I also used standard punctuation with Graphite).
 
-### Что мне не нравится в раскладке
+### What I don't like about the layout
 
-- левый указательный палец двигается довольно интенсивно и скачет туда сюда, это не сильно сказывается на удобстве, но может сказаться на высоких скоростях набора. Хотя этот показатель всё равно намного лучше, чем у Qwerty. Неудобство вызывает скипграмма `c_m`.
-- `e,` - не очень удобная sfb для меня. При желании можно поменять местами `,` и `;`.
-- `phy` - удобнее чем в графите, но всё равно требует усилий
-- `k` - расположение не самое оптимальное, так как образует много сочетаний с гласными буквами и хотя не доставляет неудобств, но вызывает перепробег указательного пальца. Но не советую менять местами `k` и `;`, т.к. это вызовет значительный рост слабых перенаправлений
+- My left index finger moves quite rapidly and jumps back and forth. This doesn't significantly affect comfort, but it can affect high typing speeds. Although this is still much better than Qwerty. The skipgram `c_m` is inconvenient.
+- `e,` is not a very convenient sfb for me. You can swap `,` and `;` if you like.
+- `phy` is more comfortable than in Graphite, but still requires effort.
+- `k` is not the most optimal placement, as it forms many combinations with vowels and, while not inconvenient, does cause excessive index finger travel. However, I don't recommend swapping `k` and `;`, as this will significantly increase weak redirections.
 
-### Кое-какие замечания
+### Some comments
 
-- `m` - может показаться, что эта довольно частая буква труднодоступна. Место, действительно, не самое удобное, но гораздо важнее, чтобы буква не вызывала неудобных сочетаний. Сочетания `rm`, `mb`, `lm`, `ms` - либо удобны, либо нейтральны. Они все равно удобнее, чем в графите, по крайней мере для меня. Если же буква `m` участвует в биграммах, для набора которых используются разные руки, то её расположение, вообще, не вызывает проблем. На практике, с этой буквой я не испытываю трудностей.
+- `m` - This fairly common letter may seem difficult to access. The location is certainly not ideal, but it's far more important that the letter doesn't create awkward combinations. Combinations like `rm`, `mb`, `lm`, and `ms` are either convenient or neutral. They're still more convenient than in graphite, at least for me. If the letter `m` is used in bigrams typed with different hands, its placement generally doesn't cause problems. In practice, I have no difficulty with this letter.
 
-## Установка
+## Installation
 
 ### Windows
 
-Для создания раскладки существует программа [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134). Видео по созданию раскладки - https://www.youtube.com/watch?v=HMDSJfwi0Kc.
+To create a keyboard layout, use the program [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134). A video on creating a keyboard layout is available at https://www.youtube.com/watch?v=HMDSJfwi0Kc.
 
-Уже готовый klc-файл с раскладкой и инсталлятор (сделаны мной) - [здесь](./windows/Grawerty10.7z).
-Klc-файл можно открыть в программе и подредактировать, а затем из него создать инсталлятор. После инсталляции раскладки лучше перезагрузиться. Даже если вы не будете самостоятельно создавать раскладку - видео все-равно посмотрите, т.к. там указаны и другие шаги, необходимые для использования раскладки.
+A ready-made KLC file with the layout and installer (created by me) is [here](./windows/Grawerty10.7z).
+You can open the KLC file in the program and edit it, then create an installer from it. After installing the layout, it's best to reboot. Even if you don't create the layout yourself, watch the video anyway, as it also covers other steps required to use the layout.
 
-Для удаления раскладки нужно запустить инсталлятор повторно.
+To remove the layout, you need to run the installer again.
 
-#### Предупреждение:
+#### Warning:
 
-Инсталлятор создавался и проверялся на Windows 10.
+The installer was created and tested on Windows 10.
 
 ### Mac
 
 ### Linux
 
-Добавить содержимое [файла](./Linux/xkb/symbols/us) в файл - `/usr/share/X11/xkb/symbols/us`.
+Append the contents of [file](./Linux/xkb/symbols/us) to the file - `/usr/share/X11/xkb/symbols/us`.
 
-#### Предупреждение:
+#### Warning:
 
-При обновлении системы `/usr/share/X11/xkb/symbols/us` может обновиться и нужно будет устанавливать раскладку снова.
+When updating the system, `/usr/share/X11/xkb/symbols/us` may be updated and you will need to install the layout again.
