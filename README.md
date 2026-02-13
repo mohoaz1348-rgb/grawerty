@@ -55,8 +55,6 @@ The arrangement of the letters `u`, `i`, and `o` was the same as in the standard
 
 SFB – in my opinion, this parameter is overly demonized and optimized at all costs, but this also creates other inconvenient combinations that modern analyzers don't catch because their bigram analysis is incomplete. This can be verified by adding up the values ​​of all analyzed bigrams: sfb + lsb + scissors < 5%. Where are the rest?
 
-Итак, SFB - 2.55%. В два с половиной раза больше, чем у графита! Тут все разворачиваются и идут по своим делам - т.к. сразу считают, что это плохая раскладка. Но на самом деле SFB ещё больше, т.к. анализатор не учел повторы одной буквы, которые для английского языка составляют 2.3%.
-
 So, the SFB is 2.55%. Two and a half times higher than Graphite's SFB! Everyone turns around and goes about their business, immediately assuming this is a bad layout. But in reality, the SFB is even higher, because the analyzer didn't account for repeats of one letter, which account for 2.3%.
 
 Now, Grawerty has 4.85%, while Graphite has 3.3%. Not that big of a difference, right? 50% more than Graphite. This extra percentage is quite comfortable to type, as it's concentrated in just a few bigrams on the index and middle fingers. `rs`, `ie` are comfortable, `ct` is less comfortable, `e` is awkward, `up`, `pu`, `fu`, `dg`, `dv` are easy to type using the index and middle fingers - this is quite familiar to Qwerty users.
@@ -90,7 +88,6 @@ Within two months and three weeks of starting my training, I reached a maximum s
 
 In a month on graphite, I reached the maximum of 50 wpm, and my speed kept growing. You can find the statistics [here](https://klavogonki.ru/u/#/817942/stats/voc-5539/?fromDate=2025-05-04&toDate=2026-01-22&grouping=day&indicator=speed). Graphite is just the beginning of the graph; the rest is Grawerty.
 
-Т.е. на графите прогресс был заметно быстрее и печатать гораздо приятнее было. Но для меня графит не совсем подходил. Поэтому, после того как я допилил и окончательно протестировал русскую раскладку [Статикa](https://github.com/mohoaz1348-rgb/statica), я приступил к созданию английском раскладки. Т.к. я уже понимал что мне нужно от раскладки, то сделал её довольно быстро и за два месяца достиг 350 символов в минуту. За это время изменили своё пложение буквы `r`, `l`, `f`, `y`, `k` и раскладка обрела окончательный вид.
 So, on Graphite, progress was noticeably faster and typing was much more pleasant. But Graphite wasn't quite right for me. So, after I finished polishing and finally tested the Russian layout [Statica](https://github.com/mohoaz1348-rgb/statica), I started creating the English layout. Since I already knew what I needed from the layout, I completed it fairly quickly and reached 70 wpm in two months. During this time, the letters `r`, `l`, `f`, `y`, and `k` changed their positions, and the layout took its final form.
 
 My progress on Grawerty was even faster than on Graphite. My speed increase compared to Qwerty was already 22%, even though I trained for two weeks less and the layout changed during that time. So I can confidently say that alternative layouts, especially good ones, provide a significant boost in both speed and typing comfort.
