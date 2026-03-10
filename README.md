@@ -68,15 +68,32 @@ This is where bigram analysis ends for many analyzers, although relatively littl
 Here are the results in percentages for some layouts:  
 `-3` are the most inconvenient combinations, `3` are the most convenient
 
-![compare_table](./img/compare_table.png)
+![compare_table](./img/compare_efforts.png)
 
 It's clear that, according to my own preference matrix, Grawerty is the most convenient layout (for me). You can customize this matrix to suit your needs and see which layout is most comfortable. However, this is a labor-intensive process and requires self-observation and an open mind.
 
+![compare_table](./img/compare_bg_type.png)
+
+- **PRS** – Pinky/Ring Scissors (Half and Full)
+- **FS(bad)** – Full Scissors (only Bad). Good Scissors (Index on buttom row) not included
+- **WS(bad)** – Wide Scissors (only Bad)
+- **HS(bad)** – Half-Scissors (only Bad). For example `wd`, `dw`, `sc` on Qwerty
+- **SFB(P)** – SFB on Pinkies
+- **SFB** – All SFB (SFB(0u) included))
+- **SFB(3u)** – For example `br`, `my` on Qwerty
+- **LSB(IM)** – LSB on Index/Middle. Qwerty `nk` – not LSB on ANSI keyboard. Qwerty `ve` – LSB on Standart and Angle Mode
+- **LSB(IR)** – LSB on Index/ Ring. Qwerty `nl` – not LSB on ANSI keyboard. Qwerty `vw` – LSB on Standart and Angle Mode
+- **LSB(IP)** – LSBs that require simultaneous stretching of the little finger and index finger. For example `ba`, `ab` on Qwerty
+- **LSB(P)** - LSB Pinky/Ring + LSB Pinky/Middle
+- **R(P-M)** – Rolls Pinky/Middle
+- **R(R→P)** – Roll-out Ring→Pinky
+- **Sort By** = sum(k*value)
+
 #### A slight digression from the topic
 
-The table shows that Graphite still holds a fairly high position—the only thing better for me is Comet, from the creator of Graphite, who likes Comet more than Graphite. Northstar is on par with Graphite, and Gallium is slightly lower. Canary is a good layout, but it doesn't suit me because it has too many redirects, but at least it has fewer weak redirects than Graphite.
+The table shows that Graphite still holds a fairly high position—the only thing better for me is Alt and Comet, from the creator of Graphite, who likes Comet more than Graphite. Northstar slightly better then Graphite, Gallium. Canary is a good layout, but it doesn't suit me because it has too many redirects, but at least it has fewer weak redirects than Graphite.
 
-Among layouts with a large number of redirects, Workman wins, with a few inconvenient bigrams and many convenient ones. Colemak-dh was a surprise, losing to Colemak.
+Among layouts with a large number of redirects, Workman, Colemak and Colemak-dh pretty similar.
 
 It is also clear that Angle Mod provides an advantage over the standard mode for Qwerty, Colemak, and Workman.
 
