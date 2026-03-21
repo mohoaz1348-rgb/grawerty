@@ -12,6 +12,11 @@ Grawerty is a layout for comfortable typing in English. It was originally design
 
 Eighteen letters, with a combined frequency of 73%, changed their positions, of which three letters, with a combined frequency of 15.4%, retained both their finger and hand positions. This means the layout has changed relative to Qwerty by 58%. I consider this a nice additional bonus, although not the main one (see comparison with other layouts).
 
+**Grawerty-punct**:
+
+![grawerty](./img/grawerty2.jpg)
+
+
 ## The reason for creating Grawerty
 
 The first alternative layout I switched to was Graphite, and it truly was much nicer than Qwerty - learning was faster and more comfortable. Within a month, I reached 50 wpm, and my speed kept increasing. But I noticed some inconveniences that were critical for me:
