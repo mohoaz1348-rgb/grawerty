@@ -73,6 +73,23 @@ LSB - 2.5%. Графит - 1.4%. Для меня приемлемо.
 
 Видно, что согласно матрице моих собственных предпочтений - Grawerty самая удобная раскладка (для меня). Вы самостоятельно можете поменять эту матрицу под себя и посмотреть какая раскладка будет наиболее удобна для вас. Но процесс это трудоёмкий и требует наблюдания за собой и непредвзятости.
 
+![compare_table](./img/compare_bg_type.png)
+
+- **PRS** – Pinky/Ring Scissors (Half and Full) - Ножницы на мизинцах
+- **FS(bad)** – Full Scissors (only Bad). Good Scissors (Index on buttom row) not included - Полные ножницы
+- **WS(bad)** – Wide Scissors (only Bad) - Полные широкие ножницы
+- **HS(bad)** – Half-Scissors (only Bad). For example `wd`, `dw`, `sc` on Qwerty - Полу-ножницы
+- **SFB(P)** – SFB on Pinkies - ПНОП-ы на мизинцах
+- **SFB** – All SFB (SFB(0u) included)) - ПНОП
+- **SFB(3u)** – For example `br`, `my` on Qwerty - ПНОП-ы расстояние между буквами которых составляет три размера клавиши
+- **LSB(IM)** – LSB on Index/Middle. Qwerty `nk` – not LSB on ANSI keyboard. Qwerty `ve` – LSB on Standart and Angle Mode - Растяжки указательный-средний палец
+- **LSB(IR)** – LSB on Index/ Ring. Qwerty `nl` – not LSB on ANSI keyboard. Qwerty `vw` – LSB on Standart and Angle Mode - Растяжки указательный-безымянный палец
+- **LSB(IP)** – LSBs that require simultaneous stretching of the little finger and index finger. For example `ba`, `ab` on Qwerty - Растяжки указательный-мизинец
+- **LSB(P)** - LSB Pinky/Ring + LSB Pinky/Middle. Растяжки мизинец-безымянный и мизинец-средний
+- **R(P-M)** – Rolls Pinky/Middle - Перекаты мизинец-средний палец
+- **R(R→P)** – Roll-out Ring→Pinky - Перекаты с безымянного пальца на мизинец
+- **Sort By** = sum(k*value)
+
 #### Небольшое отступление от темы
 
 Из таблицы видно, что графит всё равно сохранил довольно высокую позицию - лучше его для меня только Comet от создателя графита, которому Comet нравится больше, чем графит. Northstar на уровне графита, Gallium, чуть ниже. Canary - хорошая раскладка, но мне не подходит, т.к. слишком много перенаправлений, но зато слабых перенаправлений меньше, чем в графите.
