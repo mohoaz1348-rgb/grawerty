@@ -32,6 +32,24 @@ w n s t g  y h e a , '
 q z x c v  p f / . ;
 ```
 
+**Grawerty-orto-thumb**
+
+```
+b l c d m  - u i o j [ ]
+w n s t g  y h e a ; '
+q z x k v  p f , . /
+      r
+```
+
+**Grawerty-orto-thumb-punct**
+
+```
+b l c d m  - u i o j [ ]
+w n s t g  y h e a , '
+q z x k v  p f / . ;
+      r
+```
+
 ## The reason for creating Grawerty
 
 The first alternative layout I switched to was Graphite, and it truly was much nicer than Qwerty - learning was faster and more comfortable. Within a month, I reached 50 wpm, and my speed kept increasing. But I noticed some inconveniences that were critical for me:
