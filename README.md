@@ -16,6 +16,21 @@ Eighteen letters, with a combined frequency of 73%, changed their positions, of 
 
 ![grawerty](./img/grawerty2.jpg)
 
+**Grawerty-orto**
+
+```
+b l r d m  k u i o j [ ]
+w n s t g  y h e a ; '
+q z x c v  p f , . /
+```
+
+**Grawerty-orto-punct**
+
+```
+b l r d m  k u i o j [ ]
+w n s t g  y h e a , '
+q z x c v  p f / . ;
+```
 
 ## The reason for creating Grawerty
 
