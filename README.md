@@ -141,7 +141,7 @@ A year ago, I decided to master touch typing for Qwerty. I spent three weeks on 
 
 Within two months and three weeks of starting my training, I reached a maximum speed of 57 wpm, and it refused to improve any further. Typing quickly became tiring, especially on my left hand (I now understand that this was due to the large number of redirections, especially weak ones). Practicing wasn't fun. I started looking at alternative English keyboard layouts, settled on Graphite, and began practicing with it.
 
-In a month on graphite, I reached the maximum of 50 wpm, and my speed kept growing. You can find the statistics [here](https://klavogonki.ru/u/#/817942/stats/voc-5539/?fromDate=2025-05-04&toDate=2026-01-22&grouping=day&indicator=speed). Graphite is just the beginning of the graph; the rest is Grawerty.
+In a month on graphite, I reached the maximum of 50 wpm, and my speed kept growing. You can find the statistics [here](https://klavogonki.ru/u/#/817942/stats/voc-5539/?fromDate=2025-05-04&toDate=2026-11-19&grouping=week&indicator=speed). Graphite is just the beginning of the graph; the rest is Grawerty.
 
 So, on Graphite, progress was noticeably faster and typing was much more pleasant. But Graphite wasn't quite right for me. So, after I finished polishing and finally tested the Russian layout [Statica](https://github.com/mohoaz1348-rgb/statica), I started creating the English layout. Since I already knew what I needed from the layout, I completed it fairly quickly and reached 70 wpm in two months. During this time, the letters `r`, `l`, `f`, `y`, and `k` changed their positions, and the layout took its final form.
 
